@@ -1,3 +1,1 @@
-- 👋 Hi, I’m ALAN CARABBACAN.
-- 👀 I’m interested in BASKETBALL, CHESS, & MARTIAL ARTS.
-- 🌱 I’m currently learning on FRONT-END DEVELOPER.
+ Hi, I’m ALAN CARABBACAN an aspiring FRONT-END DEVELOPER. 
